@@ -1,0 +1,14 @@
+﻿  Boolean.cpp
+  Helper.cpp
+  IndentationException.cpp
+  Integer.cpp
+  Interpreter.cpp
+  NameErrorException.cpp
+  Parser.cpp
+  Sequence.cpp
+  String.cpp
+  SyntaxException.cpp
+  Type.cpp
+  Void.cpp
+  Generating Code...
+  part-1.vcxproj -> C:\Magshimim\mython\part-1\x64\Debug\part-1.exe
